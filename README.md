@@ -4,8 +4,7 @@ Login Automation test on a demo website using Katalon Studio (Data-driven framew
 
 ## Test Cases
 
-Test Cases:
-LoginInvalidCredentials   - 	testing the login form with invalid credentials
+LoginInvalidCredentials   - 	testing the login form with invalid credentials <br>
 LoginValidCredentials   	- 	testing the login form with valid credentials
 
 ## Test Suites
